@@ -1,0 +1,9 @@
+Polarity Statement Explorer - Requirements
+Version 1.0 (7 May 2025)
+
+tk
+matplotlib
+spacy
+pillow
+
+by James Kosev-Lex

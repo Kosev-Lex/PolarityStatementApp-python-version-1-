@@ -1,0 +1,3596 @@
+[
+  {
+    "statement":"Colours define everything.",
+    "pivots":[
+      "colours"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Identity",
+    "domain":"Perception",
+    "pole_a":"Red is bold, passionate, and decisive.",
+    "pole_b":"Blue is calm, trustworthy, and superior.",
+    "group_a":"Red-identifying group",
+    "group_b":"Blue-identifying group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"tribal projection",
+    "source":"minimal group experiment logic",
+    "tags":[
+      "colour",
+      "identity",
+      "projection",
+      "group"
+    ],
+    "notes":"Used to show how arbitrary traits are infused with group meaning.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Teams bring out the truth.",
+    "pivots":[
+      "truth"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Tribalism",
+    "pole_a":"Our team reveals what others hide.",
+    "pole_b":"Our team cuts through the other side's noise.",
+    "group_a":"Team A",
+    "group_b":"Team B",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"ingroup validation",
+    "source":"minimal group dynamics",
+    "tags":[
+      "team",
+      "tribe",
+      "truth",
+      "bias"
+    ],
+    "notes":"Illustrates how teams are used as epistemic filters.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Shapes have meaning.",
+    "pivots":[
+      "meaning"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Symbolic",
+    "domain":"Perception",
+    "pole_a":"Circles represent unity and strength.",
+    "pole_b":"Squares represent structure and logic.",
+    "group_a":"Circle-identifying group",
+    "group_b":"Square-identifying group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"symbolic projection",
+    "source":"projective identity",
+    "tags":[
+      "shapes",
+      "symbolism",
+      "projection",
+      "meaning"
+    ],
+    "notes":"Form as metaphor for group values.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Noise reveals character.",
+    "pivots":[
+      "character"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Behaviour",
+    "pole_a":"Loudness shows confidence.",
+    "pole_b":"Quiet restraint shows wisdom.",
+    "group_a":"Loud group",
+    "group_b":"Quiet group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue framing",
+    "source":"folk psychology",
+    "tags":[
+      "noise",
+      "loud",
+      "quiet",
+      "character"
+    ],
+    "notes":"Still waters vs boldness dichotomy.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Waiting shows who you are.",
+    "pivots":[
+      "waiting"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Endurance",
+    "pole_a":"Impatience reveals weakness in others.",
+    "pole_b":"Patience reveals strength and endurance.",
+    "group_a":"Impatient group",
+    "group_b":"Patient group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"delay as moral measure",
+    "source":"minimal behavioural opposition",
+    "tags":[
+      "waiting",
+      "patience",
+      "virtue",
+      "identity"
+    ],
+    "notes":"Basic time-framed identity lens.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Direction is destiny.",
+    "pivots":[
+      "direction"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Symbolic",
+    "domain":"Motion",
+    "pole_a":"Left is the natural, righteous path.",
+    "pole_b":"Right is the true and moral direction.",
+    "group_a":"Left-movers",
+    "group_b":"Right-movers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"symbolic dichotomy",
+    "source":"group identity",
+    "tags":[
+      "direction",
+      "movement",
+      "symbolism",
+      "destiny"
+    ],
+    "notes":"Abstract positioning as ideological commitment.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Even nonsense reveals truth.",
+    "pivots":[
+      "truth"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Meaning",
+    "pole_a":"Hidden patterns exist in the chaos.",
+    "pole_b":"Seeing patterns in nonsense exposes your bias.",
+    "group_a":"Pattern-seeking group",
+    "group_b":"Skeptical group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"confirmation vs refutation",
+    "source":"pattern recognition",
+    "tags":[
+      "truth",
+      "bias",
+      "pattern",
+      "nonsense"
+    ],
+    "notes":"Highlights projective bias and apophenia.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Randomness always exposes bias.",
+    "pivots":[
+      "bias"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Perception",
+    "pole_a":"Chaos reveals subconscious patterns.",
+    "pole_b":"Perceived patterns in chaos expose assumptions.",
+    "group_a":"Apophenic interpreters",
+    "group_b":"Empirical skeptics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"perception as projection",
+    "source":"apophenia logic",
+    "tags":[
+      "randomness",
+      "bias",
+      "pattern",
+      "projection"
+    ],
+    "notes":"Mutual accusation of bias through the same data.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Rules exist for a reason.",
+    "pivots":[
+      "rules"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Cognitive",
+    "domain":"Governance",
+    "pole_a":"Rules preserve order and structure in society.",
+    "pole_b":"Bad rules must be questioned - only good ones survive.",
+    "group_a":"Order-preserving group",
+    "group_b":"Reformist group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"stability vs challenge",
+    "source":"primitive reasoning",
+    "tags":[
+      "rules",
+      "authority",
+      "order",
+      "rebellion"
+    ],
+    "notes":"Tension between respect for systems and willingness to revise them.",
+    "confidence_a":0.6,
+    "confidence_b":0.4
+  },
+  {
+    "statement":"Fairness isn't always equal.",
+    "pivots":[
+      "fairness"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Justice",
+    "pole_a":"Fairness means giving everyone what they need.",
+    "pole_b":"Fairness means treating everyone the same.",
+    "group_a":"Equity-leaning group",
+    "group_b":"Equality-leaning group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"moral framing",
+    "source":"primitive moral logic",
+    "tags":[
+      "fairness",
+      "equity",
+      "justice",
+      "equality"
+    ],
+    "notes":"Traffic fine example: same penalty has different impact for poor vs rich.",
+    "confidence_a":0.55,
+    "confidence_b":0.45
+  },
+  {
+    "statement":"Change is inevitable.",
+    "pivots":[
+      "change"
+    ],
+    "type":"resolution-trap",
+    "structure":"pivot-polarity",
+    "axis":"Temporal",
+    "domain":"Culture",
+    "pole_a":"Embrace it -  growth depends on it.",
+    "pole_b":"Resist it - preserve what matters.",
+    "group_a":"Progressive group",
+    "group_b":"Conservative group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"temporal framing",
+    "source":"common aphorism",
+    "tags":[
+      "change",
+      "tradition",
+      "progress",
+      "preservation"
+    ],
+    "notes":"Same statement leads to opposite actions depending on temporal stance.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Everyone has their truth.",
+    "pivots":[
+      "truth"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Identity",
+    "pole_a":"Personal experience defines truth and meaning.",
+    "pole_b":"This undermines objective truth and shared principles.",
+    "group_a":"Subjectivist group",
+    "group_b":"Objectivist group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth relativism",
+    "source":"modern discourse",
+    "tags":[
+      "truth",
+      "subjective",
+      "objective",
+      "epistemology"
+    ],
+    "notes":"Tension between lived experience and universal reasoning.",
+    "confidence_a":0.6,
+    "confidence_b":0.4
+  },
+  {
+    "statement":"Time heals all wounds.",
+    "pivots":[
+      "time"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Trauma",
+    "pole_a":"Letting time pass brings natural peace and closure.",
+    "pole_b":"Inaction allows pain to fester - healing needs active effort.",
+    "group_a":"Passive recovery group",
+    "group_b":"Active healing group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"agency vs passivity",
+    "source":"folk wisdom",
+    "tags":[
+      "healing",
+      "recovery",
+      "trauma",
+      "time"
+    ],
+    "notes":"Surface wisdom used both to comfort and to deflect responsibility.",
+    "confidence_a":0.55,
+    "confidence_b":0.45
+  },
+  {
+    "statement":"Wearing hats shows confidence.",
+    "pivots":[
+      "confidence"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Identity",
+    "domain":"Appearance",
+    "pole_a":"Hat-wearers stand out proudly and own their presence.",
+    "pole_b":"Hat-wearers are overcompensating - true confidence is silent.",
+    "group_a":"Hat-wearers",
+    "group_b":"Non-hat-wearers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue reframing",
+    "source":"minimal display preference",
+    "tags":[
+      "confidence",
+      "appearance",
+      "identity",
+      "performance"
+    ],
+    "notes":"Appearance interpreted as strength or compensation.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Clicking first reveals everything.",
+    "pivots":[
+      "reveals"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Behavioural",
+    "domain":"Decision-Making",
+    "pole_a":"Clicking first shows instinct, confidence, and alertness.",
+    "pole_b":"Clicking first shows recklessness and lack of patience.",
+    "group_a":"Fast-clickers",
+    "group_b":"Slow-clickers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"impulse reframing",
+    "source":"reflex identity",
+    "tags":[
+      "speed",
+      "decision",
+      "instinct",
+      "judgment"
+    ],
+    "notes":"Action speed reframed as strength or flaw.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Favourite colour says it all.",
+    "pivots":[
+      "says"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Symbolic",
+    "domain":"Perception",
+    "pole_a":"Red shows boldness, truth, and directness.",
+    "pole_b":"Red shows aggression, blue reflects thought and emotional depth.",
+    "group_a":"Red preference",
+    "group_b":"Blue-favourers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"symbolic attribution",
+    "source":"colour psychology",
+    "tags":[
+      "colour",
+      "symbolism",
+      "identity",
+      "preference"
+    ],
+    "notes":"Colour preference used to affirm or pathologise identity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Standing still shows strength.",
+    "pivots":[
+      "strength"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Behavioural",
+    "domain":"Action",
+    "pole_a":"Stillness is composure and control.",
+    "pole_b":"Stillness is fear and indecision.",
+    "group_a":"Still group",
+    "group_b":"Moving group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue reinterpretation",
+    "source":"motion symbolism",
+    "tags":[
+      "stillness",
+      "movement",
+      "strength",
+      "composure"
+    ],
+    "notes":"Motion reframed as presence or paralysis.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Choosing early defines who you are.",
+    "pivots":[
+      "defines"
+    ],
+    "type":"emphasis-flip",
+    "structure":"pivot-polarity",
+    "axis":"Cognitive",
+    "domain":"Decision-Making",
+    "pole_a":"Early choice shows decisiveness and clarity.",
+    "pole_b":"Rushing decisions shows insecurity and lack of reflection.",
+    "group_a":"Early choosers",
+    "group_b":"Late choosers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"identity projection",
+    "source":"temporal commitment",
+    "tags":[
+      "decision",
+      "timing",
+      "identity",
+      "confidence"
+    ],
+    "notes":"Decision timing framed as strength or insecurity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Silence is never empty.",
+    "pivots":[
+      "never empty"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Expression",
+    "pole_a":"Silence is powerful and intentional.",
+    "pole_b":"Silence reflects avoidance or weakness.",
+    "group_a":"Minimalists",
+    "group_b":"Talkers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"absence interpretation",
+    "source":"nonverbal discourse",
+    "tags":[
+      "silence",
+      "power",
+      "avoidance",
+      "expression"
+    ],
+    "notes":"Silence reframed as presence vs absence of meaning.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Waiting proves your character.",
+    "pivots":[
+      "proves"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Virtue",
+    "pole_a":"Patience shows strength and moral restraint.",
+    "pole_b":"Waiting shows hesitation and lack of decisiveness.",
+    "group_a":"Patient group",
+    "group_b":"Impatient group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue inversion",
+    "source":"behavioural interpretation",
+    "tags":[
+      "patience",
+      "character",
+      "timing",
+      "virtue"
+    ],
+    "notes":"Moral interpretation of delay varies by group identity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Position determines perception.",
+    "pivots":[
+      "perception"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Perspective",
+    "pole_a":"Our viewpoint reveals the real truth.",
+    "pole_b":"Your position distorts what you think you see.",
+    "group_a":"Dominant",
+    "group_b":"Subordinate",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"relativist stance projection",
+    "source":"perceptual framing",
+    "tags":[
+      "perspective",
+      "perception",
+      "stance",
+      "truth"
+    ],
+    "notes":"Truth claimed through point-of-view relativism.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The first move says everything.",
+    "pivots":[
+      "says everything"
+    ],
+    "type":"emphasis-flip",
+    "structure":"pivot-polarity",
+    "axis":"Behavioural",
+    "domain":"Action",
+    "pole_a":"Acting first shows confidence and initiative.",
+    "pole_b":"Acting first reveals desperation and anxiety.",
+    "group_a":"Quick movers",
+    "group_b":"Delayed movers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"action signal framing",
+    "source":"social dynamics",
+    "tags":[
+      "first",
+      "move",
+      "signal",
+      "action"
+    ],
+    "notes":"Initiative interpreted as leadership or error.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Stillness reveals control.",
+    "pivots":[
+      "control"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Composure",
+    "pole_a":"Stillness reflects calm mastery.",
+    "pole_b":"Stillness is a mask for fear or paralysis.",
+    "group_a":"Still group",
+    "group_b":"Active group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"stillness virtue reversal",
+    "source":"self-regulation interpretation",
+    "tags":[
+      "stillness",
+      "control",
+      "composure",
+      "fear"
+    ],
+    "notes":"Inaction read as mastery or weakness depending on lens.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Similarity creates strength.",
+    "pivots":[
+      "strength"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Social",
+    "domain":"Group Identity",
+    "pole_a":"Sameness gives unity and power.",
+    "pole_b":"Sameness shows fragility - strength comes from difference.",
+    "group_a":"Conforming group",
+    "group_b":"Diverse group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"unity vs diversity framing",
+    "source":"identity logic",
+    "tags":[
+      "similarity",
+      "diversity",
+      "strength",
+      "group"
+    ],
+    "notes":"Sameness as cohesion vs suppression.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Choice defines identity.",
+    "pivots":[
+      "defines"
+    ],
+    "type":"emphasis-flip",
+    "structure":"pivot-polarity",
+    "axis":"Identity",
+    "domain":"Decision-Making",
+    "pole_a":"Deciding early shows self-awareness and control.",
+    "pole_b":"Refusing to choose is a form of self-definition.",
+    "group_a":"Early choosers",
+    "group_b":"Resisters",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"choice framing",
+    "source":"identity construction",
+    "tags":[
+      "choice",
+      "identity",
+      "resistance",
+      "agency"
+    ],
+    "notes":"Decision vs refusal both framed as identity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Matching proves awareness.",
+    "pivots":[
+      "awareness"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Symbolic",
+    "domain":"Aesthetics",
+    "pole_a":"Matching is a signal of intelligence and harmony.",
+    "pole_b":"Matching shows lack of independence - awareness means standing apart.",
+    "group_a":"Uniformed group",
+    "group_b":"Non-matching group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"appearance virtue contest",
+    "source":"aesthetic signalling",
+    "tags":[
+      "matching",
+      "awareness",
+      "aesthetics",
+      "group"
+    ],
+    "notes":"Surface harmony as conformity or insight.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Noise always tells a story.",
+    "pivots":[
+      "tells a story"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Expression",
+    "pole_a":"Loudness reflects passion and voice.",
+    "pole_b":"Noise covers confusion or avoidance.",
+    "group_a":"Loud group",
+    "group_b":"Quiet group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"expression reframing",
+    "source":"behavioural symbolism",
+    "tags":[
+      "noise",
+      "expression",
+      "voice",
+      "signal"
+    ],
+    "notes":"Noise framed as communication or concealment.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Everyone ends up where they belong.",
+    "pivots":[
+      "belong"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Social",
+    "domain":"Hierarchy",
+    "pole_a":"Natural order places people correctly.",
+    "pole_b":"Systems condition people to accept false limitations.",
+    "group_a":"Hierarchy-affirming group",
+    "group_b":"Anti-hierarchy group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"merit vs illusion framing",
+    "source":"social stratification",
+    "tags":[
+      "hierarchy",
+      "destiny",
+      "social order",
+      "place"
+    ],
+    "notes":"Apparent fate used to affirm or challenge power.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The outside reflects the inside.",
+    "pivots":[
+      "reflects"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Appearance",
+    "pole_a":"Presentation reveals character.",
+    "pole_b":"Judgment of appearance reveals bias.",
+    "group_a":"Appearance-affirming group",
+    "group_b":"Appearance-resisting group",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"projection vs introspection",
+    "source":"visual psychology",
+    "tags":[
+      "appearance",
+      "judgment",
+      "reflection",
+      "character"
+    ],
+    "notes":"Appearance as truth vs projection field.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Unity is the only way forward.",
+    "pivots":[
+      "unity"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Identity",
+    "domain":"Social Order",
+    "pole_a":"Unity means collective alignment for shared cultural values.",
+    "pole_b":"Unity means pluralism and space for dissent.",
+    "group_a":"Cultural conservatives",
+    "group_b":"Progressive pluralists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"semantic compression",
+    "source":"modern political discourse",
+    "tags":[
+      "unity",
+      "order",
+      "identity",
+      "direction"
+    ],
+    "notes":"Unity interpreted as ideological conformity vs inclusive coexistence.",
+    "confidence_a":0.55,
+    "confidence_b":0.45
+  },
+  {
+    "statement":"Freedom must be protected.",
+    "pivots":[
+      "freedom"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Governance",
+    "pole_a":"Freedom means protection from authoritarian interference.",
+    "pole_b":"Freedom means ensuring state control against destabilisers.",
+    "group_a":"Libertarians",
+    "group_b":"Authoritarian traditionalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"value inversion",
+    "source":"ideological framing",
+    "tags":[
+      "freedom",
+      "protection",
+      "control",
+      "rights"
+    ],
+    "notes":"Same value used to oppose liberalism and defend it.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Freedom requires responsibility.",
+    "pivots":[
+      "freedom",
+      "responsibility"
+    ],
+    "type":"emphasis-flip",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Governance",
+    "pole_a":"Most people are irresponsible - freedom must be constrained by government.",
+    "pole_b":"Freedom is personal - government obstructs responsible autonomy.",
+    "group_a":"Statist conservatives",
+    "group_b":"Individualist libertarians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"conditional inversion",
+    "source":"polar ideological divergence",
+    "tags":[
+      "freedom",
+      "responsibility",
+      "liberty",
+      "state"
+    ],
+    "notes":"Each group anchors on a different word to justify opposing stances.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security ensures peace.",
+    "pivots":[
+      "security"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Conflict",
+    "pole_a":"Security means disarming violence and providing safety.",
+    "pole_b":"Security means eliminating threats by any means.",
+    "group_a":"Defensive realists",
+    "group_b":"Militant aggressors",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"justificatory abstraction",
+    "source":"military policy discourse",
+    "tags":[
+      "security",
+      "peace",
+      "military",
+      "threat"
+    ],
+    "notes":"Security redefined to justify either restraint or total aggression.",
+    "confidence_a":0.55,
+    "confidence_b":0.45
+  },
+  {
+    "statement":"There's a fine line between tradition and oppression.",
+    "pivots":[
+      "tradition",
+      "oppression"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Cultural",
+    "domain":"Norms",
+    "pole_a":"Tradition provides stability - don't mistake it for harm.",
+    "pole_b":"Oppression often hides in tradition - question inherited norms.",
+    "group_a":"Cultural conservatives",
+    "group_b":"Progressive reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"normative boundary debate",
+    "source":"cultural politics",
+    "tags":[
+      "tradition",
+      "oppression",
+      "culture",
+      "norms"
+    ],
+    "notes":"Polarity in interpretation of historical continuity vs critique.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Silence can be either dignity or complicity.",
+    "pivots":[
+      "silence"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Expression",
+    "pole_a":"Silence is a mark of wisdom and dignity.",
+    "pole_b":"Silence enables injustice and becomes complicity.",
+    "group_a":"Restraint-valuing individuals",
+    "group_b":"Activists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"moral divergence framing",
+    "source":"activist vs traditional discourse",
+    "tags":[
+      "silence",
+      "dignity",
+      "complicity",
+      "justice"
+    ],
+    "notes":"Same act framed as noble or negligent depending on moral lens.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Justice demands both accountability and mercy.",
+    "pivots":[
+      "justice"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Legal",
+    "domain":"Punishment",
+    "pole_a":"Justice fails without full accountability and consequence.",
+    "pole_b":"Justice without mercy becomes vengeance and alienation.",
+    "group_a":"Retributive thinkers",
+    "group_b":"Restorative thinkers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue balance",
+    "source":"criminal justice philosophy",
+    "tags":[
+      "justice",
+      "mercy",
+      "accountability",
+      "law"
+    ],
+    "notes":"Two poles value justice but differ on how it must operate.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Patriotism should never come at the cost of truth.",
+    "pivots":[
+      "patriotism",
+      "truth"
+    ],
+    "type":"emphasis-flip",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Civic Identity",
+    "pole_a":"Patriotism should include dissent and truth-telling.",
+    "pole_b":"True patriotism is honest - acknowledging flaws is love of country.",
+    "group_a":"Dissenters",
+    "group_b":"Nationalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"alignment convergence",
+    "source":"patriotic discourse",
+    "tags":[
+      "patriotism",
+      "truth",
+      "dissent",
+      "civic"
+    ],
+    "notes":"Unusual polarity: both sides embrace truth but anchor it differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Equality doesn't always mean sameness.",
+    "pivots":[
+      "equality",
+      "sameness"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Justice",
+    "pole_a":"Equity means different people get different support to achieve fairness.",
+    "pole_b":"Equality must reflect effort and result, not equal treatment by default.",
+    "group_a":"Equity advocates",
+    "group_b":"Merit-based advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"value principle divergence",
+    "source":"educational and political discourse",
+    "tags":[
+      "equality",
+      "equity",
+      "merit",
+      "fairness"
+    ],
+    "notes":"Sameness rejected by both sides, but for opposite fairness models.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security without liberty is control; liberty without security is chaos.",
+    "pivots":[
+      "security",
+      "liberty"
+    ],
+    "type":"causal-reversal",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Control is necessary - security comes first, liberty follows.",
+    "pole_b":"Control is the problem - liberty must never be sacrificed.",
+    "group_a":"Authoritarians",
+    "group_b":"Libertarians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"paradox framing",
+    "source":"philosophical governance discourse",
+    "tags":[
+      "security",
+      "liberty",
+      "control",
+      "chaos"
+    ],
+    "notes":"Double pivot creates mirrored justifications for opposing priorities.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Tolerance ends when harm begins.",
+    "pivots":[
+      "tolerance",
+      "harm"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Speech",
+    "pole_a":"Certain behaviours are intolerable if they degrade moral values.",
+    "pole_b":"Hate disguised as free expression should not be tolerated.",
+    "group_a":"Moral conservatives",
+    "group_b":"Progressives",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"moral limit boundary",
+    "source":"cultural morality discourse",
+    "tags":[
+      "tolerance",
+      "harm",
+      "speech",
+      "limits"
+    ],
+    "notes":"Each group affirms the harm boundary, but defines harm differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Words have consequences.",
+    "pivots":[
+      "consequences"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Speech",
+    "pole_a":"Harmful speech should be limited to prevent social damage.",
+    "pole_b":"Restricting speech undermines democratic safety and trust.",
+    "group_a":"Free speech critics",
+    "group_b":"Free speech defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"interpretive conflict",
+    "source":"free speech debate",
+    "tags":[
+      "speech",
+      "consequence",
+      "freedom",
+      "harm"
+    ],
+    "notes":"Consequences affirmed by both as reason for suppression or freedom.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Truth must be protected.",
+    "pivots":[
+      "truth"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Media",
+    "pole_a":"Combat misinformation with authority and regulation.",
+    "pole_b":"Protect truth by preserving open inquiry and speech.",
+    "group_a":"Fact-checkers",
+    "group_b":"Speech advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth preservation framing",
+    "source":"information integrity discourse",
+    "tags":[
+      "truth",
+      "misinformation",
+      "protection",
+      "freedom"
+    ],
+    "notes":"Truth as a justification for both control and liberty.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Justice must be served.",
+    "pivots":[
+      "justice"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Legal",
+    "domain":"Due Process",
+    "pole_a":"Justice delayed is justice denied - it must be swift.",
+    "pole_b":"Swift justice risks error - justice must be deliberate.",
+    "group_a":"Swift justice proponents",
+    "group_b":"Due process defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"timing and fairness conflict",
+    "source":"legal process debate",
+    "tags":[
+      "justice",
+      "delay",
+      "due process",
+      "speed"
+    ],
+    "notes":"Both poles want justice served - differ in how speed affects legitimacy.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Unity is essential.",
+    "pivots":[
+      "unity"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Social",
+    "domain":"Collective Identity",
+    "pole_a":"Dissent weakens progress - unity means alignment.",
+    "pole_b":"Forced unity silences marginal voices.",
+    "group_a":"Majority view",
+    "group_b":"Minority view",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"conformity vs resistance",
+    "source":"cultural cohesion discourse",
+    "tags":[
+      "unity",
+      "dissent",
+      "majority",
+      "minority"
+    ],
+    "notes":"Unity seen as harmony vs suppression depending on social role.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Freedom must be protected.",
+    "pivots":[
+      "freedom"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Governance",
+    "pole_a":"Freedom is under threat from government overreach.",
+    "pole_b":"True freedom is blocked by economic inequality.",
+    "group_a":"Libertarians",
+    "group_b":"Progressives",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"freedom redefinition",
+    "source":"liberty discourse",
+    "tags":[
+      "freedom",
+      "rights",
+      "protection",
+      "inequality"
+    ],
+    "notes":"Same pivot reframed as liberty from power vs liberty through equity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Words have power.",
+    "pivots":[
+      "power"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Speech",
+    "pole_a":"Dangerous speech must be restricted.",
+    "pole_b":"All speech must be allowed because it's powerful.",
+    "group_a":"Censorship advocates",
+    "group_b":"Speech absolutists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"speech strength polarity",
+    "source":"media control debate",
+    "tags":[
+      "speech",
+      "power",
+      "censorship",
+      "freedom"
+    ],
+    "notes":"Speech power as reason to silence vs protect.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Freedom requires limits.",
+    "pivots":[
+      "limits"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Security",
+    "pole_a":"Unchecked freedom causes harm - limits are external safeguards.",
+    "pole_b":"Limits must be personal, not imposed by others.",
+    "group_a":"Security advocates",
+    "group_b":"Freedom advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"boundary justification",
+    "source":"liberty vs control debate",
+    "tags":[
+      "freedom",
+      "limits",
+      "security",
+      "discipline"
+    ],
+    "notes":"Same principle used to justify imposition or autonomy.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Truth must be defended.",
+    "pivots":[
+      "truth"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Information",
+    "pole_a":"Protect truth by blocking false information.",
+    "pole_b":"Protect truth by allowing open, competing voices.",
+    "group_a":"Fact-control advocates",
+    "group_b":"Free discourse defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth protection polarity",
+    "source":"fact-checking debate",
+    "tags":[
+      "truth",
+      "defense",
+      "misinformation",
+      "discourse"
+    ],
+    "notes":"Truth upheld through both suppression and freedom arguments.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Equality must be earned.",
+    "pivots":[
+      "equality"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Justice",
+    "pole_a":"Equality comes through merit and contribution.",
+    "pole_b":"Equality is denied unfairly - it must be guaranteed.",
+    "group_a":"Merit-based thinkers",
+    "group_b":"Equity-based thinkers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"merit vs rights",
+    "source":"equity vs merit discourse",
+    "tags":[
+      "equality",
+      "equity",
+      "fairness",
+      "merit"
+    ],
+    "notes":"Equality interpreted as outcome or entitlement depending on frame.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Silence speaks volumes.",
+    "pivots":[
+      "speaks"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Expression",
+    "pole_a":"Silence is complicity in injustice.",
+    "pole_b":"Silence reflects thoughtfulness and restraint.",
+    "group_a":"Activists",
+    "group_b":"Moderates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"silence interpretation",
+    "source":"protest discourse",
+    "tags":[
+      "silence",
+      "expression",
+      "justice",
+      "dignity"
+    ],
+    "notes":"Silence as resistance vs virtue depending on moral lens.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Order is necessary for justice.",
+    "pivots":[
+      "order"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Legal",
+    "domain":"Justice",
+    "pole_a":"Justice requires social stability and enforceable order.",
+    "pole_b":"Order is often used to suppress justice for the vulnerable.",
+    "group_a":"Law-and-order proponents",
+    "group_b":"Justice reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"stability vs liberation",
+    "source":"criminal justice discourse",
+    "tags":[
+      "order",
+      "justice",
+      "law",
+      "reform"
+    ],
+    "notes":"Order seen as prerequisite or obstacle to real justice.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Compromise is strength.",
+    "pivots":[
+      "strength"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Conflict Resolution",
+    "pole_a":"Compromise unites people and solves problems.",
+    "pole_b":"Compromise weakens integrity and sacrifices principle.",
+    "group_a":"Moderates",
+    "group_b":"Principled purists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"collaboration vs conviction",
+    "source":"bipartisan discourse",
+    "tags":[
+      "compromise",
+      "strength",
+      "moderation",
+      "principle"
+    ],
+    "notes":"Compromise framed as cohesion or betrayal.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Responsibility comes first.",
+    "pivots":[
+      "responsibility"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Rights",
+    "pole_a":"Earn rights through responsibility and discipline.",
+    "pole_b":"Society must be responsible to ensure equitable rights.",
+    "group_a":"Conservatives",
+    "group_b":"Progressives",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"rights vs obligation",
+    "source":"civic duty framing",
+    "tags":[
+      "responsibility",
+      "rights",
+      "duty",
+      "society"
+    ],
+    "notes":"Responsibility placed on individual vs collective.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Tradition must be respected.",
+    "pivots":[
+      "respected"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Cultural",
+    "domain":"Norms",
+    "pole_a":"Tradition preserves identity and stability.",
+    "pole_b":"Respecting tradition means challenging what no longer serves.",
+    "group_a":"Traditionalists",
+    "group_b":"Reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"heritage vs evolution",
+    "source":"cultural value discourse",
+    "tags":[
+      "tradition",
+      "respect",
+      "culture",
+      "reform"
+    ],
+    "notes":"Respect interpreted as preservation or critical revision.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Everyone deserves safety.",
+    "pivots":[
+      "safety"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Social",
+    "domain":"Security",
+    "pole_a":"Enforce law and order to protect the majority.",
+    "pole_b":"Safety must include protecting marginalised groups from abuse by that order.",
+    "group_a":"Law enforcement advocates",
+    "group_b":"Marginalised rights advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"safety redefinition",
+    "source":"social justice discourse",
+    "tags":[
+      "safety",
+      "justice",
+      "order",
+      "rights"
+    ],
+    "notes":"Safety defined as order vs protection from order itself.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Silence is a response.",
+    "pivots":[
+      "response"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Expression",
+    "pole_a":"Silence reveals guilt - it hides avoidance.",
+    "pole_b":"Silence shows wisdom - it resists unnecessary conflict.",
+    "group_a":"Suspicious observers",
+    "group_b":"Philosophical restraint advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"inference from absence",
+    "source":"psychological reading",
+    "tags":[
+      "silence",
+      "response",
+      "guilt",
+      "wisdom"
+    ],
+    "notes":"Same behaviour interpreted as signal of flaw or virtue.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Consistency reveals character.",
+    "pivots":[
+      "character"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Identity",
+    "pole_a":"Consistency shows principle and moral integrity.",
+    "pole_b":"Consistency shows rigidity and closed-mindedness.",
+    "group_a":"Principle-based advocates",
+    "group_b":"Flexibility-based advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue reinterpretation",
+    "source":"identity framing",
+    "tags":[
+      "character",
+      "consistency",
+      "virtue",
+      "rigidity"
+    ],
+    "notes":"Same trait as virtue or flaw depending on framing.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Repetition proves belief.",
+    "pivots":[
+      "belief"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Communication",
+    "pole_a":"Repetition shows strength of conviction.",
+    "pole_b":"Repetition is indoctrination and lack of reflection.",
+    "group_a":"Traditionalists",
+    "group_b":"Skeptics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"belief demonstration polarity",
+    "source":"belief signaling discourse",
+    "tags":[
+      "belief",
+      "repetition",
+      "indoctrination",
+      "conviction"
+    ],
+    "notes":"Repeating ideas framed as commitment or manipulation.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Success reveals value.",
+    "pivots":[
+      "value"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Economic",
+    "domain":"Merit",
+    "pole_a":"Success means earned worth and value.",
+    "pole_b":"Success reflects systemic bias, not true value.",
+    "group_a":"Meritocrats",
+    "group_b":"Structural critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"merit vs structure framing",
+    "source":"economic justice discourse",
+    "tags":[
+      "success",
+      "value",
+      "bias",
+      "merit"
+    ],
+    "notes":"Achievement as signal of worth or evidence of inequality.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Censorship is the cost of civilisation.",
+    "pivots":[
+      "cost"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Speech",
+    "pole_a":"Civilisation demands boundaries - censorship preserves order.",
+    "pole_b":"Censorship erodes the freedom civilisation requires.",
+    "group_a":"Order-preserving thinkers",
+    "group_b":"Liberty-preserving thinkers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"sacrifice justification",
+    "source":"civil society debate",
+    "tags":[
+      "censorship",
+      "civilisation",
+      "cost",
+      "freedom"
+    ],
+    "notes":"Censorship framed as protective vs corruptive depending on value anchor.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The center always collapses under pressure.",
+    "pivots":[
+      "center"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Ideology",
+    "pole_a":"Centrism is weakness - indecision dressed as virtue.",
+    "pole_b":"Centrism is strength - collapse is due to extremism.",
+    "group_a":"Radical camps",
+    "group_b":"Moderates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"ideological stability inversion",
+    "source":"ideological alignment debate",
+    "tags":[
+      "center",
+      "moderation",
+      "collapse",
+      "extremes"
+    ],
+    "notes":"Center interpreted as void or anchor depending on side.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Morality without action is just decoration.",
+    "pivots":[
+      "decoration"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Virtue",
+    "pole_a":"Inaction voids moral claims - values demand deeds.",
+    "pole_b":"Unwise action is worse - restraint preserves true morality.",
+    "group_a":"Activists",
+    "group_b":"Ethical caution advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"action vs intention",
+    "source":"moral responsibility debate",
+    "tags":[
+      "morality",
+      "action",
+      "virtue",
+      "restraint"
+    ],
+    "notes":"Moral worth tied to action vs deliberation.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Transparency demands discomfort.",
+    "pivots":[
+      "demands"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Truth",
+    "pole_a":"Truth requires pain - discomfort is necessary for honesty.",
+    "pole_b":"Discomfort is often forced - 'transparency' is sometimes control.",
+    "group_a":"Truth advocates",
+    "group_b":"Privacy advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"honesty vs coercion framing",
+    "source":"truth ethics debate",
+    "tags":[
+      "transparency",
+      "discomfort",
+      "truth",
+      "coercion"
+    ],
+    "notes":"Openness reframed as honesty vs abuse.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Consensus is the graveyard of innovation.",
+    "pivots":[
+      "consensus"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Progress",
+    "pole_a":"Consensus dulls creativity -  real change defies the norm.",
+    "pole_b":"Innovation needs common ground or it collapses into chaos.",
+    "group_a":"Disruptors",
+    "group_b":"Synthesis-seekers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"stability vs originality",
+    "source":"innovation discourse",
+    "tags":[
+      "consensus",
+      "innovation",
+      "progress",
+      "conformity"
+    ],
+    "notes":"Agreement seen as either stagnation or structure.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Neutrality is a mask worn by power.",
+    "pivots":[
+      "mask"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Authority",
+    "pole_a":"Neutrality preserves the status quo and privileges power.",
+    "pole_b":"Attacking neutrality hides bias - forcing sides erodes freedom.",
+    "group_a":"Power critics",
+    "group_b":"Independents",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"apolitical justification conflict",
+    "source":"neutrality discourse",
+    "tags":[
+      "neutrality",
+      "power",
+      "bias",
+      "freedom"
+    ],
+    "notes":"Neutrality framed as complicity vs independence.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Justice that arrives late is no justice at all.",
+    "pivots":[
+      "late"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Legal",
+    "domain":"Due Process",
+    "pole_a":"Justice must be swift, delay is denial.",
+    "pole_b":"Delay ensures fairness - haste corrupts outcomes.",
+    "group_a":"Expedited justice advocates",
+    "group_b":"Due process defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"urgency vs caution",
+    "source":"legal ethics",
+    "tags":[
+      "justice",
+      "delay",
+      "speed",
+      "due process"
+    ],
+    "notes":"Timeliness used to affirm or deny legitimacy.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Compromise is where integrity goes to die.",
+    "pivots":[
+      "compromise"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Negotiation",
+    "pole_a":"Compromise is surrender - it weakens principles and dilutes truth.",
+    "pole_b":"Compromise is strength - integrity adapts and finds middle ground.",
+    "group_a":"Hardline idealists",
+    "group_b":"Pragmatic reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"integrity framing",
+    "source":"ethics of negotiation",
+    "tags":[
+      "compromise",
+      "integrity",
+      "principle",
+      "flexibility"
+    ],
+    "notes":"Integrity framed as rigidity vs adaptive ethics.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security is the polite word for control.",
+    "pivots":[
+      "security"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Security requires control - rules protect people.",
+    "pole_b":"Security disguises domination - control justified by fear.",
+    "group_a":"Governance advocates",
+    "group_b":"Liberty defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"language inversion",
+    "source":"governance discourse",
+    "tags":[
+      "security",
+      "control",
+      "freedom",
+      "language"
+    ],
+    "notes":"Security reframed as protection vs manipulation.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Every tradition began as rebellion.",
+    "pivots":[
+      "tradition"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Cultural",
+    "domain":"Norms",
+    "pole_a":"Tradition redeems rebellion - it becomes sacred over time.",
+    "pole_b":"Tradition erases rebellion - systems absorb and defang dissent.",
+    "group_a":"Conservatives",
+    "group_b":"Cultural critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"origin reinterpretation",
+    "source":"cultural theory",
+    "tags":[
+      "tradition",
+      "rebellion",
+      "legacy",
+      "power"
+    ],
+    "notes":"Origin of norms used to critique or validate the present.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Peace must be won.",
+    "pivots":[
+      "won"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Conflict",
+    "pole_a":"Peace comes through strength, deterrence, and decisive victory.",
+    "pole_b":"Peace comes through diplomacy, concessions, and moral leadership.",
+    "group_a":"Hawkish strategists",
+    "group_b":"Peace-oriented diplomats",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"peace-through-means inversion",
+    "source":"geopolitical doctrine",
+    "tags":[
+      "peace",
+      "war",
+      "strength",
+      "dialogue"
+    ],
+    "notes":"Peace framed as force or dialogue depending on worldview.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We fight for freedom.",
+    "pivots":[
+      "freedom"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Conflict Justification",
+    "pole_a":"We protect liberty from tyranny and threats.",
+    "pole_b":"We impose ideology while masking imperial goals.",
+    "group_a":"Democracy defenders",
+    "group_b":"Anti-imperial critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"motivation exposure",
+    "source":"foreign policy framing",
+    "tags":[
+      "freedom",
+      "conflict",
+      "imperialism",
+      "justification"
+    ],
+    "notes":"Same war narrative used to affirm and critique intervention.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"War is a failure of diplomacy.",
+    "pivots":[
+      "failure"
+    ],
+    "type":"causal-reversal",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Foreign Policy",
+    "pole_a":"War proves diplomacy failed - peace must be prioritised.",
+    "pole_b":"Diplomacy only works when backed by credible threat of war.",
+    "group_a":"Pacifists",
+    "group_b":"Realists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"failure logic inversion",
+    "source":"military strategy",
+    "tags":[
+      "war",
+      "diplomacy",
+      "failure",
+      "force"
+    ],
+    "notes":"War seen as failure or strategic leverage.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"History is written by the victors.",
+    "pivots":[
+      "victors"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Epistemic",
+    "domain":"Historical Narrative",
+    "pole_a":"Victory distorts truth - we must reclaim hidden perspectives.",
+    "pole_b":"Victory legitimises the narrative - revisionism undermines stability.",
+    "group_a":"Historical revisionists",
+    "group_b":"Traditional historians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth legitimacy conflict",
+    "source":"postwar historical discourse",
+    "tags":[
+      "history",
+      "victors",
+      "truth",
+      "revisionism"
+    ],
+    "notes":"Victory used as justification or critique of dominant narratives.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Soldiers deserve respect.",
+    "pivots":[
+      "respect"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Military Service",
+    "pole_a":"They risk their lives defending the nation - honour is due.",
+    "pole_b":"They are victims of political exploitation - sympathy, not glorification.",
+    "group_a":"Nationalists",
+    "group_b":"Anti-war advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"respect inversion",
+    "source":"military moral discourse",
+    "tags":[
+      "soldiers",
+      "respect",
+      "sacrifice",
+      "politics"
+    ],
+    "notes":"Respect shown as heroism or sympathy for systemic use.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We must never forget.",
+    "pivots":[
+      "forget"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Collective Memory",
+    "pole_a":"Remembering honours the fallen and prevents repetition.",
+    "pole_b":"Memory is weaponised to justify ongoing militarism.",
+    "group_a":"Remembrance advocates",
+    "group_b":"Critical historians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"memory usage conflict",
+    "source":"commemoration debates",
+    "tags":[
+      "memory",
+      "remembrance",
+      "war",
+      "violence"
+    ],
+    "notes":"Collective memory framed as tribute or propaganda.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security requires sacrifice.",
+    "pivots":[
+      "sacrifice"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"pivot-polarity",
+    "axis":"Political",
+    "domain":"Civil Liberties",
+    "pole_a":"War times justify curtailing freedoms to protect security.",
+    "pole_b":"Unchecked security rhetoric erodes freedom permanently.",
+    "group_a":"Security realists",
+    "group_b":"Civil liberties advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"sacrifice polarity",
+    "source":"wartime governance",
+    "tags":[
+      "security",
+      "sacrifice",
+      "freedom",
+      "liberties"
+    ],
+    "notes":"Sacrifice portrayed as patriotic or authoritarian threat.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Victory comes at a cost.",
+    "pivots":[
+      "cost"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Warfare",
+    "pole_a":"Cost is noble - borne with pride and national duty.",
+    "pole_b":"Cost is tragic - proof of war's horror and waste.",
+    "group_a":"Honour culture proponents",
+    "group_b":"Pacifist humanists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"suffering interpretation",
+    "source":"war legacy discourse",
+    "tags":[
+      "victory",
+      "cost",
+      "war",
+      "sacrifice"
+    ],
+    "notes":"Same losses framed as noble or needless tragedy.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Loyalty is everything in combat.",
+    "pivots":[
+      "loyalty"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Psychological",
+    "domain":"Military Experience",
+    "pole_a":"Loyalty to country, mission, and command is paramount.",
+    "pole_b":"Loyalty to comrades, conscience, and survival trumps orders.",
+    "group_a":"Institutionalists",
+    "group_b":"Front-line veterans",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"loyalty lens inversion",
+    "source":"combat psychology",
+    "tags":[
+      "loyalty",
+      "combat",
+      "duty",
+      "survival"
+    ],
+    "notes":"Loyalty framed as structural or personal allegiance.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The enemy is not human.",
+    "pivots":[
+      "enemy"
+    ],
+    "type":"framing-polarity",
+    "structure":"pivot-polarity",
+    "axis":"Moral",
+    "domain":"Warfare Psychology",
+    "pole_a":"Dehumanisation is necessary to survive battle and act decisively.",
+    "pole_b":"Dehumanisation enables atrocities and denies shared humanity.",
+    "group_a":"Combat pragmatists",
+    "group_b":"Human rights ethicists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"dehumanisation framing",
+    "source":"military ethics",
+    "tags":[
+      "enemy",
+      "dehumanisation",
+      "war",
+      "ethics"
+    ],
+    "notes":"Dehumanisation seen as survival or moral collapse.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"There's a big difference between hate speech and free speech.",
+    "pivots":[
+      "difference",
+      "hate speech",
+      "free speech"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Epistemic",
+    "domain":"Speech",
+    "pole_a":"The distinction protects all forms of expression  including controversial ones.",
+    "pole_b":"The distinction shows why hate speech must be regulated separately.",
+    "group_a":"Pro free speech advocates",
+    "group_b":"Anti hate speech regulators",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"pivot ambiguity inversion",
+    "source":"free speech debate",
+    "tags":[
+      "speech",
+      "freedom",
+      "hate",
+      "difference",
+      "regulation"
+    ],
+    "notes":"Same statement anchors opposite ideologies based on which pivot is prioritised.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Safety and freedom must be preserved at all costs.",
+    "pivots":[
+      "safety",
+      "freedom",
+      "costs"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Safety is the priority, freedom can be restricted to protect lives.",
+    "pole_b":"Freedom is foundational,  without it, 'safety' becomes authoritarian.",
+    "group_a":"Security realists",
+    "group_b":"Civil libertarians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"pivot load redirection",
+    "source":"security-liberty discourse",
+    "tags":[
+      "safety",
+      "freedom",
+      "sacrifice",
+      "governance"
+    ],
+    "notes":"Each side interprets the cost differently -  what must be sacrificed for the other.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Order and justice cannot exist without each other.",
+    "pivots":[
+      "order",
+      "justice"
+    ],
+    "type":"causal-reversal",
+    "structure":"multi-pivot",
+    "axis":"Legal",
+    "domain":"Justice",
+    "pole_a":"Justice emerges from structured systems - order must come first.",
+    "pole_b":"Justice defines systems - without it, order is hollow.",
+    "group_a":"Legal formalists",
+    "group_b":"Justice reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"causal anchor inversion",
+    "source":"legal theory",
+    "tags":[
+      "order",
+      "justice",
+      "law",
+      "priority"
+    ],
+    "notes":"Both affirmed as linked, but each pole inverts the hierarchy of necessity.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Tradition and progress both demand sacrifice.",
+    "pivots":[
+      "tradition",
+      "progress",
+      "sacrifice"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Cultural",
+    "domain":"Social Change",
+    "pole_a":"Preserving values requires endurance - tradition is worth suffering for.",
+    "pole_b":"Progress requires breaking from tradition - the past is the price.",
+    "group_a":"Cultural traditionalists",
+    "group_b":"Progressive reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"mutual framing with divergent sacrifices",
+    "source":"social reform discourse",
+    "tags":[
+      "tradition",
+      "progress",
+      "sacrifice",
+      "culture"
+    ],
+    "notes":"Each side accepts sacrifice but shifts what is sacred vs expendable.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Speech, power, and responsibility must remain inseparable.",
+    "pivots":[
+      "speech",
+      "power",
+      "responsibility"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Communication Ethics",
+    "pole_a":"With power comes responsibility - speech must be cautious and accountable.",
+    "pole_b":"Free speech keeps power in check - responsibility lies with the listener, not the speaker.",
+    "group_a":"Accountability advocates",
+    "group_b":"Free speech libertarians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"pivot triangulation",
+    "source":"communication ethics discourse",
+    "tags":[
+      "speech",
+      "power",
+      "responsibility",
+      "freedom"
+    ],
+    "notes":"Each pivot interpreted as primary in conflicting directions - triangle structure of conflict.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Truth, identity, and belief are no longer separable.",
+    "pivots":[
+      "truth",
+      "identity",
+      "belief"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Epistemic",
+    "domain":"Knowledge and Culture",
+    "pole_a":"Truth is shaped by identity and belief - experience is reality.",
+    "pole_b":"Identity politics distorts belief - truth must be objective and grounded.",
+    "group_a":"Lived experience advocates",
+    "group_b":"Objectivist epistemologists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth-identity dissonance",
+    "source":"postmodern epistemology",
+    "tags":[
+      "truth",
+      "identity",
+      "belief",
+      "epistemology"
+    ],
+    "notes":"Truth weaponised as either subjective shield or fact-based tool.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security, privacy, and liberty form a fragile triangle.",
+    "pivots":[
+      "security",
+      "privacy",
+      "liberty"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Security must take priority - liberty and privacy follow from safety.",
+    "pole_b":"Liberty is the core - privacy and freedom must be protected from creeping security.",
+    "group_a":"Security-first strategists",
+    "group_b":"Privacy rights defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"triangular value hierarchy",
+    "source":"governance tradeoff theory",
+    "tags":[
+      "security",
+      "privacy",
+      "liberty",
+      "fragility"
+    ],
+    "notes":"Each side sees a different pivot as central; others must bend.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Equity and excellence cannot be achieved without tension.",
+    "pivots":[
+      "equity",
+      "excellence",
+      "tension"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Educational",
+    "domain":"Performance Standards",
+    "pole_a":"Equity demands tension - elite norms must be challenged.",
+    "pole_b":"Excellence suffers from equity mandates - tension is a symptom of lowered standards.",
+    "group_a":"Equity-focused reformers",
+    "group_b":"Meritocratic purists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"value clash through tension",
+    "source":"educational policy discourse",
+    "tags":[
+      "equity",
+      "excellence",
+      "tension",
+      "standards"
+    ],
+    "notes":"Tension praised as moral or condemned as decline  depending on core pivot.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Speech without consequence is neither free nor responsible.",
+    "pivots":[
+      "speech",
+      "consequence",
+      "freedom",
+      "responsibility"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Expression",
+    "pole_a":"Consequence defines true freedom - without it, speech is reckless.",
+    "pole_b":"Freedom means insulation from punishment - consequence kills speech.",
+    "group_a":"Accountability-driven ethicists",
+    "group_b":"Absolutist free-speech defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"nested contradiction framing",
+    "source":"expression ethics",
+    "tags":[
+      "speech",
+      "freedom",
+      "responsibility",
+      "consequence"
+    ],
+    "notes":"Pivots cascade - consequence reframes speech, which reframes freedom.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Neutrality and compassion often collide in silence.",
+    "pivots":[
+      "neutrality",
+      "compassion",
+      "silence"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Psychological",
+    "domain":"Ethics",
+    "pole_a":"Silence enables harm - neutrality becomes complicity.",
+    "pole_b":"Silence is care - neutrality preserves peace and dignity.",
+    "group_a":"Moral urgency advocates",
+    "group_b":"Ethical restraint proponents",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"moral collision",
+    "source":"moral silence discourse",
+    "tags":[
+      "silence",
+      "compassion",
+      "neutrality",
+      "ethics"
+    ],
+    "notes":"Silence is affirmed but framed as harm or healing depending on the pivot weighted.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Faith, science, and freedom must learn to coexist.",
+    "pivots":[
+      "faith",
+      "science",
+      "freedom",
+      "coexist"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Epistemic",
+    "domain":"Public Discourse",
+    "pole_a":"Science leads - faith must adapt and evolve for progress.",
+    "pole_b":"Freedom protects belief - coexistence means respecting all worldviews equally.",
+    "group_a":"Secular rationalists",
+    "group_b":"Freedom-of-belief advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"worldview hierarchy framing",
+    "source":"civil discourse on belief",
+    "tags":[
+      "faith",
+      "science",
+      "freedom",
+      "coexistence"
+    ],
+    "notes":"Agreement in premise - divergence in defining the terms of coexistence.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Justice and order require compromise and enforcement.",
+    "pivots":[
+      "justice",
+      "order",
+      "compromise",
+      "enforcement"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Legal",
+    "domain":"Governance",
+    "pole_a":"Justice is stability - enforcement ensures compromise and order.",
+    "pole_b":"Justice is fairness - compromise dilutes principle and enables injustice.",
+    "group_a":"Stability-focused legalists",
+    "group_b":"Purist justice reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"justice interpretation split",
+    "source":"governance ethics",
+    "tags":[
+      "justice",
+      "order",
+      "compromise",
+      "enforcement"
+    ],
+    "notes":"One side equates justice with order, the other sees compromise as betrayal.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The law must evolve to preserve freedom and prevent abuse.",
+    "pivots":[
+      "law",
+      "freedom",
+      "abuse"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Legal",
+    "domain":"Civil Rights",
+    "pole_a":"The law should limit harmful speech and protect vulnerable groups.",
+    "pole_b":"Evolving definitions of abuse threaten core freedoms.",
+    "group_a":"Progressive legal reformers",
+    "group_b":"Civil libertarians",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"freedom-preservation inversion",
+    "source":"civil law discourse",
+    "tags":[
+      "law",
+      "freedom",
+      "abuse",
+      "speech"
+    ],
+    "notes":"Both claim to defend freedom - one by expansion, one by restraint.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Accountability should protect institutions and expose wrongdoing.",
+    "pivots":[
+      "accountability",
+      "institutions",
+      "wrongdoing"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Trust",
+    "pole_a":"Protect institutions from false attacks - accountability defends legitimacy.",
+    "pole_b":"Accountability reveals institutional failure - exposure is necessary.",
+    "group_a":"Institutional defenders",
+    "group_b":"Whistleblower advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"trust vs transparency",
+    "source":"institutional legitimacy discourse",
+    "tags":[
+      "accountability",
+      "institutions",
+      "exposure",
+      "trust"
+    ],
+    "notes":"Accountability split - shield from harm vs reveal harm.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Trauma and resilience shape identity and perception.",
+    "pivots":[
+      "trauma",
+      "resilience",
+      "identity",
+      "perception"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Psychological",
+    "domain":"Selfhood",
+    "pole_a":"Trauma is central - ignoring it warps empathy and identity.",
+    "pole_b":"Resilience defines selfhood - fixation on trauma distorts perspective.",
+    "group_a":"Trauma-centered psychologists",
+    "group_b":"Resilience-focused psychologists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"identity anchor conflict",
+    "source":"trauma-informed discourse",
+    "tags":[
+      "trauma",
+      "resilience",
+      "identity",
+      "perception"
+    ],
+    "notes":"Debate over which experience defines the self.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Boundaries and empathy are essential for mental health.",
+    "pivots":[
+      "boundaries",
+      "empathy",
+      "mental health"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Psychological",
+    "domain":"Wellbeing",
+    "pole_a":"Empathy must override rigid boundaries to promote healing.",
+    "pole_b":"Boundaries are protective - empathy without limits can harm.",
+    "group_a":"Empathic connection advocates",
+    "group_b":"Clinical mental health professionals",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"empathy-boundary tension",
+    "source":"mental health practice",
+    "tags":[
+      "empathy",
+      "boundaries",
+      "mental health",
+      "wellbeing"
+    ],
+    "notes":"Balance of connection and self-preservation seen differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Self-awareness without discipline leads to indulgence.",
+    "pivots":[
+      "self-awareness",
+      "discipline",
+      "indulgence"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Psychological",
+    "domain":"Growth",
+    "pole_a":"Self-awareness is liberation - discipline can suppress expression.",
+    "pole_b":"Awareness without limits breeds narcissism and excuses.",
+    "group_a":"Authenticity-focused thinkers",
+    "group_b":"Self-regulation advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"growth vs gratification split",
+    "source":"personal development discourse",
+    "tags":[
+      "self-awareness",
+      "discipline",
+      "indulgence",
+      "growth"
+    ],
+    "notes":"Discipline framed as constraint or structure for awareness.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Evidence, skepticism, and consensus drive scientific truth.",
+    "pivots":[
+      "evidence",
+      "skepticism",
+      "consensus",
+      "truth"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Epistemic",
+    "domain":"Scientific Inquiry",
+    "pole_a":"Truth emerges through doubt - consensus can prematurely halt exploration.",
+    "pole_b":"Consensus signals tested knowledge - skepticism without end impedes understanding.",
+    "group_a":"Scientific skeptics",
+    "group_b":"Institutional scientists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth pathway inversion",
+    "source":"scientific epistemology",
+    "tags":[
+      "evidence",
+      "skepticism",
+      "consensus",
+      "truth"
+    ],
+    "notes":"Skepticism and consensus each used to affirm truth or delay it.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Ethics must guide innovation and experimentation.",
+    "pivots":[
+      "ethics",
+      "innovation",
+      "experimentation"
+    ],
+    "type":"moral-anchor-shift",
+    "structure":"multi-pivot",
+    "axis":"Moral",
+    "domain":"Scientific Progress",
+    "pole_a":"Innovation requires bold risks - ethics should not limit exploration.",
+    "pole_b":"Unchecked experimentation becomes harmful - ethics are essential safeguards.",
+    "group_a":"Progress maximalists",
+    "group_b":"Ethics-focused researchers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"exploration vs protection",
+    "source":"bioethics and science policy",
+    "tags":[
+      "ethics",
+      "experimentation",
+      "innovation",
+      "science"
+    ],
+    "notes":"Innovation seen as liberty or liability depending on ethics.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Science and society must adapt together.",
+    "pivots":[
+      "science",
+      "society",
+      "adapt"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Social",
+    "domain":"Science and Culture",
+    "pole_a":"Society must keep pace with scientific innovation.",
+    "pole_b":"Science must remain accountable to social values.",
+    "group_a":"Tech-forward advocates",
+    "group_b":"Civic responsibility proponents",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"mutual accountability",
+    "source":"science-society discourse",
+    "tags":[
+      "science",
+      "society",
+      "adaptation",
+      "accountability"
+    ],
+    "notes":"Adaptation prioritised by different agents based on worldview.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Leadership demands unity, strength, and accountability.",
+    "pivots":[
+      "leadership",
+      "unity",
+      "strength",
+      "accountability"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Unity is authority - dissent weakens leadership.",
+    "pole_b":"Accountability is strength - leadership without it breeds conformity.",
+    "group_a":"Authoritarian realists",
+    "group_b":"Democratic reformists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"power vs transparency tension",
+    "source":"executive power debates",
+    "tags":[
+      "leadership",
+      "unity",
+      "strength",
+      "accountability"
+    ],
+    "notes":"Strength seen as control or honesty, depending on value lens.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Security, freedom, and information must be balanced.",
+    "pivots":[
+      "security",
+      "freedom",
+      "information"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Information Policy",
+    "pole_a":"National security demands control over sensitive information.",
+    "pole_b":"Information freedom sustains liberty - security limits trust.",
+    "group_a":"Security hawks",
+    "group_b":"Transparency advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"information access polarity",
+    "source":"surveillance and speech debates",
+    "tags":[
+      "security",
+      "freedom",
+      "information",
+      "privacy"
+    ],
+    "notes":"Balance defined by which pivot is emphasised.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Protest is both a right and a disruption.",
+    "pivots":[
+      "protest",
+      "right",
+      "disruption"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Civil Action",
+    "pole_a":"Disruption is the only way unheard voices gain attention.",
+    "pole_b":"Rights must be exercised peacefully - disruption endangers order.",
+    "group_a":"Social justice movements",
+    "group_b":"Civic order traditionalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"disruption valorization vs restraint",
+    "source":"civil protest discourse",
+    "tags":[
+      "protest",
+      "rights",
+      "disruption",
+      "speech"
+    ],
+    "notes":"Both affirm the statement - each redefines what the disruption means.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Democracy protects minorities and reflects majorities.",
+    "pivots":[
+      "democracy",
+      "minorities",
+      "majorities",
+      "protects",
+      "reflects"
+    ],
+    "type":"framing-polarity",
+    "structure":"multi-pivot",
+    "axis":"Political",
+    "domain":"Representation",
+    "pole_a":"Protecting minorities is democracy's truest expression.",
+    "pole_b":"Majority will is the foundation of democratic legitimacy.",
+    "group_a":"Minority rights defenders",
+    "group_b":"Majoritarian populists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"representation lens inversion",
+    "source":"electoral legitimacy discourse",
+    "tags":[
+      "democracy",
+      "minorities",
+      "majorities",
+      "representation"
+    ],
+    "notes":"Each group affirms the role of democracy while defining its target differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Climate change is real.",
+    "pivots":[
+      "climate",
+      "change",
+      "real"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Climate Belief",
+    "pole_a":"Yes - Anthropogenic emissions are driving unprecedented warming.",
+    "pole_b":"Yes - The climate has always changed naturally - no need for alarm.",
+    "group_a":"Some climate scientists",
+    "group_b":"Climate naturalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"semantic affirmation divergence",
+    "source":"public discourse",
+    "tags":[
+      "climate",
+      "change",
+      "real",
+      "interpretation"
+    ],
+    "notes":"Shared truth claimed - underlying cause and implications disputed.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We need to prepare for a changing climate.",
+    "pivots":[
+      "prepare",
+      "changing",
+      "climate"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Strategic",
+    "domain":"Adaptation",
+    "pole_a":"Global warming will bring sea rise and collapse - urgent prep needed.",
+    "pole_b":"Climate has always changed - prep for natural cycles, not panic.",
+    "group_a":"Climate preparedness advocates",
+    "group_b":"Cyclical climate realists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"cause ambiguity in shared call",
+    "source":"climate readiness debate",
+    "tags":[
+      "climate",
+      "change",
+      "prepare",
+      "adaptation"
+    ],
+    "notes":"Both urge preparation - disagree why and how.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Emissions must be addressed.",
+    "pivots":[
+      "emissions",
+      "addressed"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Environmental",
+    "domain":"Carbon Policy",
+    "pole_a":"Industrial CO2 must be cut - it's the primary cause of warming.",
+    "pole_b":"Natural emissions dominate - regulating humans is misdirected.",
+    "group_a":"Carbon reductionists",
+    "group_b":"Emission skeptics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"scope inversion",
+    "source":"climate mitigation",
+    "tags":[
+      "emissions",
+      "climate",
+      "regulation"
+    ],
+    "notes":"Same verb accepted - subject of cause\/impact diverges.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The science matters.",
+    "pivots":[
+      "science",
+      "matters"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Scientific Authority",
+    "pole_a":"Consensus proves human-driven change.",
+    "pole_b":"Science includes questioning - consensus is political.",
+    "group_a":"Mainstream science community",
+    "group_b":"Scientific pluralists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth legitimacy framing",
+    "source":"epistemological climate framing",
+    "tags":[
+      "science",
+      "truth",
+      "consensus",
+      "debate"
+    ],
+    "notes":"Statement affirmed - disputed over what 'science' includes.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We must protect the environment.",
+    "pivots":[
+      "protect",
+      "environment"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Moral",
+    "domain":"Environmental Policy",
+    "pole_a":"Urgent carbon regulation and green transition are protection.",
+    "pole_b":"Preserving land rights and limiting overreach is protection.",
+    "group_a":"Green policymakers",
+    "group_b":"Property rights advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"definition conflict",
+    "source":"environmental ethics",
+    "tags":[
+      "environment",
+      "protection",
+      "regulation",
+      "rights"
+    ],
+    "notes":"Protection defined as proactive vs protective of liberty.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The climate debate is full of misinformation.",
+    "pivots":[
+      "climate",
+      "debate",
+      "misinformation"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Information Warfare",
+    "pole_a":"Polluters fund denial and confuse the public.",
+    "pole_b":"Alarmists distort uncertainty to push agendas.",
+    "group_a":"Disinformation watchdogs",
+    "group_b":"Climate contrarian critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"blame attribution",
+    "source":"information trust framing",
+    "tags":[
+      "misinformation",
+      "climate",
+      "truth",
+      "blame"
+    ],
+    "notes":"Misinformation affirmed - source of distortion disputed.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We should listen to experts.",
+    "pivots":[
+      "listen",
+      "experts"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Public Trust",
+    "pole_a":"IPCC and climate scientists show clear human cause.",
+    "pole_b":"Skeptical experts are being silenced unfairly.",
+    "group_a":"Mainstream climate supporters",
+    "group_b":"Free speech science critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"expert legitimacy conflict",
+    "source":"authority debate",
+    "tags":[
+      "experts",
+      "listen",
+      "trust",
+      "science"
+    ],
+    "notes":"Statement affirmed - disagreement over who counts as expert.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Critical thinking should be taught in schools.",
+    "pivots":[
+      "critical thinking",
+      "schools"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Cognitive",
+    "domain":"Education",
+    "pole_a":"To empower students to challenge authority and question narratives.",
+    "pole_b":"To guard against ideological indoctrination and left-wing bias.",
+    "group_a":"Progressive educators",
+    "group_b":"Conservative reformers",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"intent inversion",
+    "source":"curriculum debates",
+    "tags":[
+      "critical thinking",
+      "education",
+      "schools"
+    ],
+    "notes":"Statement is affirmed by both, but used to pursue opposing goals.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"History must be taught honestly.",
+    "pivots":[
+      "history",
+      "honestly"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Education",
+    "pole_a":"Expose colonialism, racism, and systemic injustice.",
+    "pole_b":"Reject revisionism and promote national pride.",
+    "group_a":"Social historians",
+    "group_b":"Nationalist educators",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"truth framing inversion",
+    "source":"education policy",
+    "tags":[
+      "history",
+      "education",
+      "truth"
+    ],
+    "notes":"Honesty is framed as exposing harm vs affirming heritage.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Students should be protected from harm.",
+    "pivots":[
+      "students",
+      "protected",
+      "harm"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Moral",
+    "domain":"Education",
+    "pole_a":"Harm includes emotional distress and marginalisation.",
+    "pole_b":"Overprotection causes harm - difficulty builds resilience.",
+    "group_a":"Inclusive education advocates",
+    "group_b":"Anti-coddling proponents",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"harm redefinition",
+    "source":"student welfare debate",
+    "tags":[
+      "harm",
+      "protection",
+      "students"
+    ],
+    "notes":"Both affirm harm exists - they define it differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Freedom of speech is essential.",
+    "pivots":[
+      "freedom",
+      "speech"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Political",
+    "domain":"Free Expression",
+    "pole_a":"To protect marginalised voices from suppression.",
+    "pole_b":"To protect controversial ideas from progressive censorship.",
+    "group_a":"Civil liberty groups",
+    "group_b":"Free speech absolutists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"speech priority split",
+    "source":"speech legislation",
+    "tags":[
+      "speech",
+      "freedom",
+      "expression"
+    ],
+    "notes":"Same phrase, different target of protection.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Misinformation is dangerous.",
+    "pivots":[
+      "misinformation",
+      "dangerous"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Media",
+    "pole_a":"Remove harmful conspiracies and denialism.",
+    "pole_b":"Censorship of dissent is itself dangerous.",
+    "group_a":"Fact-checkers",
+    "group_b":"Free speech watchdogs",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"misinformation framing inversion",
+    "source":"information control debate",
+    "tags":[
+      "misinformation",
+      "media",
+      "truth"
+    ],
+    "notes":"Danger defined by opposing threats.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"The media must be held accountable.",
+    "pivots":[
+      "media",
+      "accountable"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Political",
+    "domain":"Media",
+    "pole_a":"Mainstream media protects power - oversight is needed.",
+    "pole_b":"Legacy media promotes progressive bias - it's activism, not facts.",
+    "group_a":"Watchdog journalists",
+    "group_b":"Media skeptics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"accountability redirection",
+    "source":"press trust debate",
+    "tags":[
+      "media",
+      "accountability",
+      "bias"
+    ],
+    "notes":"Accountability affirmed, but for opposing faults.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We should trust the science.",
+    "pivots":[
+      "trust",
+      "science"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Epistemic",
+    "domain":"Science",
+    "pole_a":"Experts and peer review protect truth.",
+    "pole_b":"Real science allows dissent - consensus becomes dogma.",
+    "group_a":"Scientific institutions",
+    "group_b":"Science critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"trust inversion",
+    "source":"scientific credibility debates",
+    "tags":[
+      "science",
+      "trust",
+      "expertise"
+    ],
+    "notes":"Trust used to defend or question authority.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Medical autonomy is a human right.",
+    "pivots":[
+      "medical",
+      "autonomy",
+      "right"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Legal",
+    "domain":"Health",
+    "pole_a":"Human right to access vaccines and reproductive care.",
+    "pole_b":"Human right to refuse mandates and coercive health policy.",
+    "group_a":"Public health advocates",
+    "group_b":"Medical freedom activists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"right invocation polarity",
+    "source":"health autonomy debate",
+    "tags":[
+      "medical",
+      "rights",
+      "autonomy"
+    ],
+    "notes":"Each uses autonomy to defend or resist state action.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"No one is above the law.",
+    "pivots":[
+      "law",
+      "above"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Legal",
+    "domain":"Justice",
+    "pole_a":"Powerful figures must be investigated and prosecuted.",
+    "pole_b":"Political show trials must be resisted as abuse of law.",
+    "group_a":"Accountability advocates",
+    "group_b":"Due process defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"justice invocation polarity",
+    "source":"legal discourse",
+    "tags":[
+      "law",
+      "justice",
+      "accountability"
+    ],
+    "notes":"Same phrase, opposing views on how law is applied.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Justice has to be upheld.",
+    "pivots":[
+      "justice",
+      "served"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Legal",
+    "domain":"Justice",
+    "pole_a":"Confront historic and systemic injustice.",
+    "pole_b":"Punish lawlessness and restore order.",
+    "group_a":"Reform justice advocates",
+    "group_b":"Law-and-order advocates",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"justice scope divergence",
+    "source":"criminal justice debate",
+    "tags":[
+      "justice",
+      "law",
+      "order"
+    ],
+    "notes":"Justice defined as systemic repair vs immediate enforcement.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"People must be held accountable.",
+    "pivots":[
+      "people",
+      "accountable"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Moral",
+    "domain":"Justice",
+    "pole_a":"Especially those with privilege and institutional power.",
+    "pole_b":"Especially those who exploit victimhood to avoid responsibility.",
+    "group_a":"Social justice advocates",
+    "group_b":"Anti-entitlement critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"accountability subject inversion",
+    "source":"public responsibility discourse",
+    "tags":[
+      "accountability",
+      "power",
+      "responsibility"
+    ],
+    "notes":"Both affirm accountability - each defines the target differently.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Democracy is under threat.",
+    "pivots":[
+      "democracy",
+      "threat"
+    ],
+    "type":"framing-polarity",
+    "structure":"affirmed-split",
+    "axis":"Political",
+    "domain":"Governance",
+    "pole_a":"Anti-democratic populists are dismantling the rule of law and attacking institutions",
+    "pole_b":"Shadowy elites and rigged systems are blocking the will of the people",
+    "group_a":"Pro-democracy liberals",
+    "group_b":"Populist nationalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"consensus surface with oppositional anchoring",
+    "source":"political narratives",
+    "tags":[
+      "democracy",
+      "institutions",
+      "elites",
+      "populilsm"
+    ],
+    "notes":"Each side affirms democracy is endangered, but one blames authoritarianism and disinformation, the other blames elites and institutional subversion.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We need strong leadership.",
+    "pivots":[
+      "leadership",
+      "strong"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Strategic",
+    "domain":"Politics",
+    "pole_a":"Coordinate just reform and protect the vulnerable.",
+    "pole_b":"Push back against weakness and cultural collapse.",
+    "group_a":"Progressive coalitions",
+    "group_b":"National revivalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"strength projection",
+    "source":"leadership rhetoric",
+    "tags":[
+      "leadership",
+      "strength",
+      "politics"
+    ],
+    "notes":"Each claims 'strength' for opposing political aims.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"We must listen to marginalised voices.",
+    "pivots":[
+      "listen",
+      "marginalized",
+      "voices"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Identity",
+    "domain":"Cultural Politics",
+    "pole_a":"Society has long silenced these voices - it's overdue.",
+    "pole_b":"Radical activists dominate - others are silenced now.",
+    "group_a":"Social inclusion advocates",
+    "group_b":"Anti-woke critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"marginalisation reversal",
+    "source":"identity politics",
+    "tags":[
+      "voices",
+      "marginalized",
+      "listen",
+      "power"
+    ],
+    "notes":"Same call affirmed - dispute over who is marginalized now.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Mental health must be taken seriously.",
+    "pivots":[
+      "mental health",
+      "seriously"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Psychological",
+    "domain":"Health",
+    "pole_a":"Validate trauma, identity, and emotional needs.",
+    "pole_b":"End overpathologisation - promote resilience.",
+    "group_a":"Mental health advocates",
+    "group_b":"Psychological minimalists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"health framing polarity",
+    "source":"mental health policy",
+    "tags":[
+      "mental health",
+      "trauma",
+      "resilience"
+    ],
+    "notes":"Seriousness used to support opposite models of care.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Respect is earned.",
+    "pivots":[
+      "respect",
+      "earned"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Moral",
+    "domain":"Social Values",
+    "pole_a":"Earned through humility, empathy, and justice.",
+    "pole_b":"Earned through strength, loyalty, and achievement.",
+    "group_a":"Virtue ethicists",
+    "group_b":"Honour culture proponents",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"virtue definition conflict",
+    "source":"character discourse",
+    "tags":[
+      "respect",
+      "virtue",
+      "honour"
+    ],
+    "notes":"Both affirm earning - values that define it differ.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"People need purpose.",
+    "pivots":[
+      "people",
+      "purpose"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"affirmed-split",
+    "axis":"Psychological",
+    "domain":"Culture",
+    "pole_a":"Found in connection, care, and growth.",
+    "pole_b":"Found in structure, responsibility, and hierarchy.",
+    "group_a":"Therapeutic humanists",
+    "group_b":"Traditional moralists",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"purpose framing divergence",
+    "source":"social cohesion discourse",
+    "tags":[
+      "purpose",
+      "meaning",
+      "culture"
+    ],
+    "notes":"Purpose affirmed - but sought in different psychological models.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Representation matters.",
+    "pivots":[
+      "representation",
+      "matters"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"argument-divergence",
+    "axis":"Identity",
+    "domain":"Culture",
+    "pole_a":"Because people need to see themselves reflected in power and media.",
+    "pole_b":"Because excessive focus on identity replaces quality with quotas.",
+    "group_a":"Representation advocates",
+    "group_b":"Anti-quota critics",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"representation justification conflict",
+    "source":"diversity discourse",
+    "tags":[
+      "representation",
+      "identity",
+      "media"
+    ],
+    "notes":"Each side affirms representation but for opposite reasons and implications.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+  {
+    "statement":"Language shapes reality.",
+    "pivots":[
+      "language",
+      "reality"
+    ],
+    "type":"affirmative-divergence",
+    "structure":"argument-divergence",
+    "axis":"Epistemic",
+    "domain":"Culture",
+    "pole_a":"Inclusive language helps dismantle bias and affirm dignity.",
+    "pole_b":"Controlling language distorts truth and enforces ideology.",
+    "group_a":"Inclusive language proponents",
+    "group_b":"Free speech defenders",
+    "validity":true,
+    "alignment_conflict":true,
+    "rhetorical function":"language control polarity",
+    "source":"cultural epistemics",
+    "tags":[
+      "language",
+      "reality",
+      "bias",
+      "ideology"
+    ],
+    "notes":"Each camp affirms shaping power but fears the other's application.",
+    "confidence_a":0.5,
+    "confidence_b":0.5
+  },
+
+  {
+  "statement": "The time you get up says a lot about a person.",
+  "pivots": [
+    "time",
+    "get up",
+    "person"
+  ],
+  "type": "framing-polarity",
+  "structure": "pivot-polarity",
+  "axis": "Temporal",
+  "domain": "Lifestyle",
+  "pole_a": "Early risers are disciplined, driven, and aligned with success.",
+  "pole_b": "Night owls are creative, independent, and unconstrained by convention.",
+  "group_a": "Early risers",
+  "group_b": "Night owls",
+  "validity": true,
+  "alignment_conflict": true,
+  "rhetorical_function": "character projection via routine framing",
+  "source": "folk chronotype bias",
+  "tags": [
+    "time",
+    "sleep",
+    "discipline",
+    "creativity",
+    "chronotype"
+  ],
+  "notes": "Uses wake time as a proxy for virtue. Each camp affirms its routine as optimal.",
+  "confidence_a": 0.55,
+  "confidence_b": 0.45
+}
+
+
+
+]
